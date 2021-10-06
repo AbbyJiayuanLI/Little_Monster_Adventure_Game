@@ -1,0 +1,6 @@
+#include "3background.h"
+
+background::background()
+{
+
+}

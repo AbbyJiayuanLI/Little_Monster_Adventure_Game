@@ -1,0 +1,6 @@
+#include "3fly.h"
+
+fly::fly()
+{
+
+}
