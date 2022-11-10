@@ -2,7 +2,7 @@
 Mario Game with C++/Qt
 
 # Demo
-Check [this](https://youtu.be/qZN8QkhRMWE) out on YouTube! 
+Check [this](https://www.youtube.com/watch?v=qZN8QkhRMWE) out on YouTube! 
 
 
 ## How to run the game?
